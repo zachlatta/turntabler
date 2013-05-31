@@ -1,4 +1,4 @@
-# turntabler [![Build Status](https://travis-ci.org/zachlatta/turntabler.png?branch=master)](https://travis-ci.org/zachlatta/turntabler) [![Dependency Status](https://gemnasium.com/obrie/turntabler.png "Dependency Status")](https://gemnasium.com/obrie/turntabler)
+# turntabler [![Build Status](https://travis-ci.org/zachlatta/turntabler.png?branch=master)](https://travis-ci.org/zachlatta/turntabler) [![Dependency Status](https://gemnasium.com/obrie/turntabler.png "Dependency Status")](https://gemnasium.com/obrie/turntabler) [![Coverage Status](https://coveralls.io/repos/zachlatta/turntabler/badge.png)](https://coveralls.io/r/zachlatta/turntabler)
 
 *turntabler* is an evented Turntable.FM API for Ruby.
 

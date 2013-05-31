@@ -1,4 +1,4 @@
-# turntabler [![Build Status](https://secure.travis-ci.org/obrie/turntabler.png "Build Status")](http://travis-ci.org/obrie/turntabler) [![Dependency Status](https://gemnasium.com/obrie/turntabler.png "Dependency Status")](https://gemnasium.com/obrie/turntabler)
+# turntabler [![Build Status](https://travis-ci.org/zachlatta/turntabler.png?branch=master)](https://travis-ci.org/zachlatta/turntabler) [![Dependency Status](https://gemnasium.com/obrie/turntabler.png "Dependency Status")](https://gemnasium.com/obrie/turntabler)
 
 *turntabler* is an evented Turntable.FM API for Ruby.
 
